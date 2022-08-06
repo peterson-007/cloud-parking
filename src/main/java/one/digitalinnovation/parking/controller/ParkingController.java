@@ -29,6 +29,7 @@ public class ParkingController {
     private final ParkingService parkingService;
     private final ParkingMapper parkingMapper;
 
+    //Injeção de dependência adicionando o service no construtor do controller
     public ParkingController(ParkingService parkingService, ParkingMapper parkingMapper) {
         this.parkingService = parkingService;
         this.parkingMapper = parkingMapper;

@@ -5,6 +5,8 @@ Conjunto de API’s utilizando Spring Boot para controlar um estacionamento de v
 
 
 Deploy na cloud do Heroku com Swagger UI
+Usuário:user
+Senha:Dio@123456
 https://parking-app-peterson.herokuapp.com/swagger-ui.html
 
 
